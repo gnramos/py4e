@@ -334,13 +334,13 @@ ele simplesmente falha, mostrando uma mensagem de erro não amigável:
 
 ~~~~
 python fahren.py
-Insira a temperatura em Fahrenheit:72
+Insira a temperatura em Fahrenheit: 72
 22.22222222222222
 ~~~~
 
 ~~~~
 python fahren.py
-Insira a temperatura em Fahrenheit:fred
+Insira a temperatura em Fahrenheit: fred
 Traceback (most recent call last):
   File "fahren.py", line 2, in <module>
     fahr = float(ent)
@@ -369,13 +369,13 @@ o Python sai desse bloco e executa os comandos no bloco 'except'.
 
 ~~~~
 python fahren2.py
-Insira a temperatura em Fahrenheit:72
+Insira a temperatura em Fahrenheit: 72
 22.22222222222222
 ~~~~
 
 ~~~~
 python fahren2.py
-Insira a temperatura em Fahrenheit:fred
+Insira a temperatura em Fahrenheit: fred
 Por favor, insira um número
 ~~~~
 
