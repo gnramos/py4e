@@ -81,7 +81,7 @@ Quando você digita um inteiro muito grande, você deve estar tentado a usar uma
 
 Bom, não é o que esperávamos!  Python interpreta 1,000,000 como uma sequência de inteiros separada por vírgulas, a qual é mostrada com um espaço entre cada inteiro.
 
-index{erro semântico}
+\index{erro semântico}
 \index{error!semantic}
 \index{mensagem de erro}
 
@@ -257,7 +257,7 @@ O operador de divisão em Python 2.x dividiria dois inteiros e truncaria o resul
 0
 ~~~~
 
-Para obter a mesma resposta em Python 3.x use a divisão inteira(//inteiro).
+Para obter a mesma resposta em Python 3.x use a divisão inteira (//inteiro).
 
 ~~~~ {.python .trinket  height="160"}
 >>> minute = 59
@@ -486,9 +486,9 @@ Comentários são mais úteis quando eles documentam características não-obvia
 
 Esse comentário é redundante com o código e inútil:
 
-
 ~~~~ {.python}
 v = 5     # atribuir 5 para v
+~~~~
 
 Esse comentário contém informação útil que não está no código:
 
