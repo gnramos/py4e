@@ -48,7 +48,7 @@ porque esses números são representados em um formato chamado *ponto flutuante*
 \index{tipo int}
 \index{class!int}
 \index{tipo float}
-\index{class!float
+\index{class!float}
 
 
 ~~~~ {.python .trinket height="120"}
