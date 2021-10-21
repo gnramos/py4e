@@ -1,4 +1,4 @@
-inp = input('Enter Fahrenheit Temperature: ')
+inp = input('Insira a temperatura em Fahrenheit: ')
 fahr = float(inp)
 cel = (fahr - 32.0) * 5.0 / 9.0
 print(cel)
