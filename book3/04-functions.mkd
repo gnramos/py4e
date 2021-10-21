@@ -123,7 +123,7 @@ Finalmente, `str` converte seu argumento para uma string:
 \index{Função str}
 \index{Função!str}
 
-~~~
+~~~~
 {.python}
 >>> str(32)
 '32'
