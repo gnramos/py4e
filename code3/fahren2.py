@@ -1,7 +1,7 @@
-inp = input('Enter Fahrenheit Temperature:')
+ent = input('Insira a temperatura em Fahrenheit:')
 try:
-    fahr = float(inp)
+    fahr = float(ent)
     cel = (fahr - 32.0) * 5.0 / 9.0
     print(cel)
 except:
-    print('Please enter a number')
+    print('Por favor, insira um número')
